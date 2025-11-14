@@ -1,10 +1,8 @@
-agentName:  agentaip003
-namespace:  agentaip003
+agentName: agentaip003
+namespace: agentaip003
 imageRepo: 229560443702.dkr.ecr.us-west-2.amazonaws.com/agentaip003
 giteaBaseUrl: :443/gitea/giteaAdmin
-
 imageBase: :443/gitea/giteaadmin
-
 envs:
   - name: dev
     depends: None
